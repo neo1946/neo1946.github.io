@@ -4,16 +4,25 @@
 # ---------------------------------------------------------------
 
 # Site
+<<<<<<< HEAD
 title: NexT
 subtitle:
 description:
 author: John Doe
+=======
+title: Blog
+subtitle: aaa
+description: little neo
+author: neo
+>>>>>>> 116cc0c0713de623c7f986e1a47d4054be6bff90
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
+url: www.baidu.com
+baseurl: www.qq.com
 permalink: pretty
 
 # Pagination

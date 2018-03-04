@@ -60,7 +60,7 @@ defaults:
 
 # Atom feed
 feed:
-  path: www.baidu.com
+  path: atom.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/

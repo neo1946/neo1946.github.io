@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: neo's blog1
+title: neo's blog2
 subtitle:
 description: little neo
-author: neo1
+author: neo
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -60,7 +60,7 @@ defaults:
 
 # Atom feed
 feed:
-  path: atom.xml
+  path: www.baidu.com
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/

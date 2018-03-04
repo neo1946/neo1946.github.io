@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: neo's blog2
+title: neo's blog3
 subtitle:
 description: little neo
 author: neo
@@ -225,7 +225,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  GitHub: test
   Twitter: twitter
   Weibo: weibo
 

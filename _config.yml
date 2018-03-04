@@ -4,24 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-<<<<<<< HEAD
-<<<<<<< HEAD
-title: NexT
-subtitle:
-description:
-author: John Doe
-=======
-title: Blog
-subtitle: aaa
-description: little neo
-author: neo
->>>>>>> 116cc0c0713de623c7f986e1a47d4054be6bff90
-=======
 title: neo's blog
 subtitle:
 description:
 author: neo
->>>>>>> aade2af8939be4240ee45403a11492aa02322d70
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'

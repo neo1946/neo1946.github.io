@@ -4,18 +4,18 @@
 # ---------------------------------------------------------------
 
 # Site
-title: neo's blog1
+title: neo's blog2
 subtitle:
 description: little neo
-author: neo1
+author: neo
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: www.baidu.com
-baseurl: www.qq.com
+url:
+baseurl:
 permalink: pretty
 
 # Pagination
@@ -60,7 +60,7 @@ defaults:
 
 # Atom feed
 feed:
-  path: www.baidu.com
+  path: atom.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
@@ -83,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:www.baidu.com
+rss:
 
 # Specify the date when the site was setup
 #since: 2015

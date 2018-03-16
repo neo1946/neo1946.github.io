@@ -12,6 +12,8 @@ tags:
 
 synchronized是java经常用于同步的一个关键字。
 <!---begin--->
+
+
 使用方法：
 -----
 

@@ -13,7 +13,7 @@
 "keyword":"《虎牙直播App隐私政策》",
 "clickurl":"https://api-m.huya.com/content/detail/3553",
 "key_privacy_window_positive_botton_text":"同意",
-"key_privacy_window_negative_botton_action":"1",
+"key_privacy_window_negative_botton_action":"",
 "key_privacy_window_negative_botton_text":"拒绝",
 "key_second_confirm_window_title":"温馨提示",
 "key_second_confirm_window_content":"在您使用虎牙直播app各项产品与服务前，请您务必同意《虎牙直播App隐私政策》，感谢您的信任！\n若您仍不同意本《虎牙直播App隐私政策》 ，很遗憾我们将无法为您提供服务，感谢您的理解。",

@@ -11,7 +11,7 @@
 7.为向您提供赛事或直播活动预订功能，我们会申请日历权限，仅将您主动预订的活动写入日历并向您推送开播通知。
 8. 为向您推荐您可能感兴趣的直播内容和资讯，我们会收集您的软件安装列表信息。",
 "keyword":"《虎牙直播App隐私政策》",
-"clickurl":"https://api-m.huya.com/content/detail/3553",
+"clickurl":"https://app-agreements.huya.com/13585/mobile/index.html",
 "key_privacy_window_positive_botton_text":"同意",
 "key_privacy_window_negative_botton_action":"1",
 "key_privacy_window_negative_botton_text":"不同意",
